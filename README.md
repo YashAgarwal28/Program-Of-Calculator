@@ -13,12 +13,16 @@
 # How to Use:
 1- Clone the repository to your local machine using the following command:
 - git clone https://github.com/your_username/calculator-java.git
+
 2- Navigate to the directory:
 - cd calculator-java
+
 3- Compile the Java program:
 - javac Calculator.java
+
 4- Run the program:
 - java Calculator
+
 5- Follow the on-screen instructions to perform calculations. Enter '0' to exit the program.
 
 # Authors:
